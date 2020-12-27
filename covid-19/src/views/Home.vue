@@ -1,4 +1,5 @@
 <template>
+  <!-- Here only the HOME template is written to the HTML site -->
   <div class="home"></div>
 </template>
 
